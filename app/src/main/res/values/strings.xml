@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string name="login">Login</string>
+    <string name="welocme">Welcome %1$s!</string>
+    <string name="myName">Muhammad Abu Bakar</string>
+    <string name="registerText">Register</string>
+</resources>
